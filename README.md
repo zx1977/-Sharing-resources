@@ -1,5 +1,3 @@
-# hello-world
-
-Hi I am kill 
-I like cat
-I like java
+hello
+最喜欢的数据收集库
+详情请见里面
